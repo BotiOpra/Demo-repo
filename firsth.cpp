@@ -2,5 +2,5 @@
 
 int main()
 {
-    
+    cout "This Git stuff is kinda kul (quick-test branch)";
 }
